@@ -1,0 +1,51 @@
+.jumbotron {
+	color: white;
+	background-image: url("../img/sky.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 0px -200px;
+	text-shadow: 2px 2px 2px #000;
+}
+
+.jumbotron h1 {
+	margin-bottom: .5em;
+}
+
+.jumbotron a {
+	text-shadow: none;
+	text-decoration: none;
+	color: black;
+}
+.jumbotron .btn {
+	box-shadow: 1px 1px #000;
+}
+
+body {
+	background-color: #ECECEA;
+	font-family: helvetica;
+}
+.container {
+	width: 80%;
+}
+
+img {
+	width: 30%;
+	float: left;
+}
+
+.header, .intro {
+	text-align: center;
+}
+
+.skills, .main_text {
+	width: 60%;
+	float: right;
+}
+
+h1 {
+	font-size: 4em;
+}
+
+h3 {
+	font-size: 2em;
+}
